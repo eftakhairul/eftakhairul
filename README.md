@@ -10,8 +10,9 @@
 ## {...} My Stack
 ```json
 {
-   "languages":["Node.js with TypeScript", "Golang", "Ruby", "PHP", "Java"],
+   "languages":["Golang", "Node.js with TypeScript","Ruby", "PHP", "Java"],
    "Database":["MySQL","PostgreSQL",  "MongoDB", "OrientDB", "Neo4j"],
-   "In-memory":["Redis", "Memcached"]   
+   "In-memory":["Redis", "Memcached"],
+   "Ops": ["Kubernetes", "Ansible", "Terraform", "AWS Cloud", "GCP"]    
 }
 ```
