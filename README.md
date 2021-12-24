@@ -13,6 +13,6 @@
    "languages":["Golang", "Node.js with TypeScript","Ruby", "PHP", "Java"],
    "Database":["MySQL","PostgreSQL",  "MongoDB", "OrientDB", "Neo4j"],
    "In-memory":["Redis", "Memcached"],
-   "Ops": ["Kubernetes", "Kafka", "Ansible", "Terraform", "AWS Cloud", "GCP"]    
+   "Ops": ["Kubernetes", "Nomad", "Kafka", "Ansible", "Terraform", "Packer", "AWS Cloud", "GCP"]    
 }
 ```
